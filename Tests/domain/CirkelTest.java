@@ -102,5 +102,5 @@ public class CirkelTest {
         assertEquals(11.33,cirkel.getStraal(), delta);
     }
 
-    
+
 }
